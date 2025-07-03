@@ -1,0 +1,12 @@
+
+Name: abhhi 
+Marks=230 
+
+Name: ansh 
+Marks=1 
+
+Name: ojasvi 
+Marks=123456 
+
+Name: sharan 
+Marks=-7 
