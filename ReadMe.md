@@ -35,4 +35,4 @@ g++ cf123.cpp -o solution
 
 This repository documents my programming journey more than offering reusable solutions. For properly organized solutions, check other repositories.
 
-[![Codeforces](https://img.shields.io/badge/My_Codeforces-Profile-blue?style=flat&logo=codeforces)](https://codeforces.com/profile/your-handle)
+[![Codeforces](https://img.shields.io/badge/My_Codeforces-Profile-blue?style=flat&logo=codeforces)](https://codeforces.com/profile/FR34KY_CODER)
