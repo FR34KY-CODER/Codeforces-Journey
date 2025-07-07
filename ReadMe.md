@@ -1,6 +1,6 @@
 # Codeforces Solutions Archive
 
-![Codeforces Rating](https://img.shields.io/badge/Codeforces-Pupil-1237-blue?logo=codeforces)
+![Codeforces Rating](https://github.com/FR34KY-CODER/Codeforces-Journey/blob/main/Screenshot%202025-07-07%20211546.png?raw=true)
 
 **Disclaimer**: This is my personal archive of Codeforces solutions. Solutions are not organized by problem ID and may not be optimal. I can't guarantee their correctness for others' use.
 
